@@ -24,10 +24,35 @@
 <p align="left">
   <a
     href="https://www.linkedin.com/in/mostafa-soliman-fadali/"
-    target="blank"
+    target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="https://www.linkedin.com/in/mostafa-soliman-fadali/"
+      height="30"
+      width="40"
+  /></a>
+</p>
+
+<p align="left">
+  <a
+    href="mailto: m.fadaly52@gmail.com"
+    target="_blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/mostafa-soliman/mostafa-soliman/8c908c3198bec1a6df6d51386e1f90a795b66547/icons8-mail.svg"
+      alt="https://www.linkedin.com/in/mostafa-soliman-fadali/"
+      height="30"
+      width="40"
+  /></a>
+</p>
+<p align="left">
+  <a
+    href="https://wa.me/00201128356597"
+    target="_blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/mostafa-soliman/mostafa-soliman/8c908c3198bec1a6df6d51386e1f90a795b66547/icons8-whatsapp.svg"
       alt="https://www.linkedin.com/in/mostafa-soliman-fadali/"
       height="30"
       width="40"

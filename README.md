@@ -1,8 +1,8 @@
-<img
+<img 
+   align="center"
   src="https://github.com/mostafa-soliman/mostafa-soliman/blob/main/logo.jpg?raw=true"
   alt="mostafa fadali"
   width="350"
-  style="display: flex; justify-content: center;"
 />
 <h1 align="center">Hi 👋, I'm Mostafa Fadali</h1>
 <h3 align="center">A passionate frontend developer</h3>

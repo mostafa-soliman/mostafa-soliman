@@ -1,6 +1,6 @@
 <img
   align="center"
-  src="[https://drive.google.com/file/d/1HyeVv1Tb-HAxIQnHerP-dGA9bfavvgLF/view?usp=sharing](https://github.com/mostafa-soliman/mostafa-soliman/blob/main/logo.jpg?raw=true)"
+  src="https://drive.google.com/file/d/1HyeVv1Tb-HAxIQnHerP-dGA9bfavvgLF/view?usp=sharing](https://github.com/mostafa-soliman/mostafa-soliman/blob/main/logo.jpg?raw=true)"
   alt="mostafa fadali"
   width="350"
 />

@@ -12,11 +12,12 @@
   Deliver Exceptional UX
 </p>
 
-- 🌱 I’m currently learning **Angular Node js** - 👨‍💻 All of my projects are
-available at
+- 🌱 I’m currently learning **Angular Node js** <br>
+  - 👨‍💻 All of my projects are available at
 [https://my-portfolio-xi-gules-73.vercel.app/](https://my-portfolio-xi-gules-73.vercel.app/)
-- 💬 Ask me about **Angular** - 📫 How to reach me **m.fadaly52@gmail.com** - 📄
-Know about my experiences
+- 💬 Ask me about **Angular** <br>
+- 📫 How to reach me **m.fadaly52@gmail.com**<br>
+- 📄 Know about my experiences
 [https://drive.google.com/file/d/14qxR9iH21EjKy2FYDM-Dxg6vYbfHLsUh/view?usp=sharing](https://drive.google.com/file/d/14qxR9iH21EjKy2FYDM-Dxg6vYbfHLsUh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>

@@ -4,7 +4,6 @@
  alt="mostafa fadali"
  width="750"
 />
-<<<<<<< HEAD
 
 <h1 align="center">Hi 👋, I'm Mostafa Fadali</h1>
 <h3 align="center">A passionate  Mobile & frontend developer</h3>
@@ -14,28 +13,11 @@
 
 - 🌱 I’m currently learning **Mobile Development with Kotlin & Jetpack Compose** and expanding my knowledge in **Android** development.
 - 👨‍💻 All of my projects are available at
-  [https://www.mostafafadali.me/](https://www.mostafafadali.me/)
+  [https://www.mostafafadali.me/](https://my-portfolio-xi-gules-73.vercel.app/)
 - 💬 Ask me about **Mobile Development, Android, Front-End Development**
 - 📫 How to reach me **m.fadaly52@gmail.com**
 - 📄 Know about my experiences
-  [https://drive.google.com/file/d/14qxR9iH21EjKy2FYDM-Dxg6vYbfHLsUh/view?usp=sharing](https://drive.google.com/file/d/14qxR9iH21EjKy2FYDM-Dxg6vYbfHLsUh/view?usp=sharing)
-=======
-<h1 align="center">Hi 👋, I'm Mostafa Fadali</h1>
-<h3 align="center">A passionate frontend developer</h3>
-<p align="left">
-  My Name Is Mostafa Fadali, I Specialize In Front-End Development, With A
-  Strong Focus On Angular. I'm Dedicated To Crafting Robust Solutions That
-  Deliver Exceptional UX
-</p>
-
-- 🌱 I’m currently learning **Angular Node js** 
-- 👨‍💻 All of my projects are available at
-[https://www.mostafafadali.me/](https://www.mostafafadali.me/)
-- 💬 Ask me about **Front-End** 
-- 📫 How to reach me **m.fadaly52@gmail.com**
-- 📄 Know about my experiences
-[https://drive.google.com/file/d/14qxR9iH21EjKy2FYDM-Dxg6vYbfHLsUh/view?usp=sharing](https://drive.google.com/file/d/14qxR9iH21EjKy2FYDM-Dxg6vYbfHLsUh/view?usp=sharing)
->>>>>>> origin/main
+  [https://drive.google.com/file/d/1U7FUVw7eqAhS6D1jHQ6qavMFDrEAs0_N/view?usp=sharing](https://drive.google.com/file/d/1U7FUVw7eqAhS6D1jHQ6qavMFDrEAs0_N/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -78,7 +60,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<<<<<<< HEAD
   <!-- Mobile Development Tools -->
   <a href="https://developer.android.com/kotlin" target="_blank" rel="noreferrer">
     <img src="https://developer.android.com/images/logos/android.svg" alt="android" width="40" height="40"/>
@@ -87,8 +68,6 @@
     <img src="https://tse3.mm.bing.net/th?id=OIP.hpVsZUIwyW8bDmjwKOGH7wHaHZ&pid=Api&P=0&h=220" alt="jetpack-compose" width="40" height="40"/>
   </a>
     <!-- Web Development Tools -->
-=======
->>>>>>> origin/main
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
       src="https://angular.io/assets/images/logos/angular/angular.svg"
